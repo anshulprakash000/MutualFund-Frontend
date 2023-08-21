@@ -1,0 +1,31 @@
+[
+    {
+    "mfId": "1",
+    "mfName": "ABC Mutual Fund",
+    "expenseRatio": ".1",
+    "exitLoad": ".1",
+    "nav": "123",
+    "includedShares": [{
+        "shareId": 1,
+        "shareName": "Axis Bank",
+        "closingPrice": "100",
+        "businessCategory": "Banking",
+        "prevPriceDetails": []
+        }]
+    },
+    {
+        "mfId": "2",
+        "mfName": "XYZ Mutual Fund",
+        "expenseRatio": "10000",
+        "exitLoad": ".1",
+        "nav": "10000",
+        "includedShares": [{
+            "shareId": 1,
+            "shareName": "小米8",
+            "closingPrice": "10000",
+            "businessCategory": "小米8",
+            "prevPriceDetails": []
+        }]
+    }
+
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "investorId": "1",
+        "investorName": "Johnny D",
+        "email": "email@.com",
+        "password": "password@",
+        "investorOwnedMutualFunds":[ {
+            "mfId": "5",
+            "mfName": "investor owned Mutual Fund",
+            "expenseRatio": ".1",
+            "exitLoad": ".1",
+            "nav": "10000",
+            "includedShares": [{
+                "shareId": 1,
+                "shareName": "小米8",
+                "closingPrice": "10000",
+                "businessCategory": "小米8",
+                "prevPriceDetails": []
+        }]
+    }]
+    }
+]
